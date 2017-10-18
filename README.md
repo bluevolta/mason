@@ -1,6 +1,6 @@
 # Mason
 Mason can do anything. And he does it through Excel!
 
-<img src="https://github.com/bluevolta/mason/raw/master/images/download.png" width="128">
+<a href="raw/master/Mason.xlsm"><img src="raw/master/images/download.png" width="256"></a>
 
-<img src="https://github.com/bluevolta/mason/raw/master/images/Mason.png" width="256">
+<img src="raw/master/images/Mason.png" width="256">
